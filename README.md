@@ -108,20 +108,19 @@ The dashboard includes:
 
 ### Executive Dashboard
 
-> *(Insert dashboard_overview.png here)*
-
-```markdown
-<img width="508" height="286" alt="executive_dashboard" src="https://github.com/user-attachments/assets/907e9b40-9d29-4754-a152-45906a1c0430" />
 
 
-```
+![Executive Dashboard](https://github.com/user-attachments/assets/fd2d7165-8e6c-4d93-a985-110c43f4e950)
 
----
+
+
 
 ### Customer Segmentation
 
-```markdown
-![Customer Segmentation](screenshots/customer_segmentation.png)
+
+``
+<img width="509" height="286" alt="Customer_segmentation" src="https://github.com/user-attachments/assets/db3df7c5-a63b-4b7d-8349-df49bfe73dd3" />
+
 ```
 
 ---
@@ -254,14 +253,13 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: *linkedin.com/in/augustine-daniel-7b92a1288*
 - GitHub: *(Add your GitHub Profile URL)*
 
 ---
 
 ## License
 
-This project is licensed under the MIT License.<img width="508" height="286" alt="executive_dashboard" src="https://github.com/user-attachments/assets/fd2d7165-8e6c-4d93-a985-110c43f4e950" />
-<img width="508" height="286" alt="executive_dashboard" src="https://github.com/user-attachments/assets/d16e090b-9cd7-4cd6-8b01-99191cff8914" />
+This project is licensed under the MIT License.
 
 
