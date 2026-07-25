@@ -254,7 +254,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 ### Connect with me
 
 - LinkedIn: *linkedin.com/in/augustine-daniel-7b92a1288*
-- GitHub: *(Add your GitHub Profile URL)*
+- GitHub: *https://github.com/daugustine99-tech*
 
 ---
 
