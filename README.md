@@ -120,26 +120,8 @@ The dashboard includes:
 
 ``
 <img width="509" height="286" alt="Customer_segmentation" src="https://github.com/user-attachments/assets/db3df7c5-a63b-4b7d-8349-df49bfe73dd3" />
-
 ```
-
----
-
-### RFM Analysis
-
-```markdown
-![RFM Analysis](screenshots/rfm_analysis.png)
 ```
-
----
-
-### Geographical Analysis
-
-```markdown
-![Geographical Analysis](screenshots/geographical_analysis.png)
-```
-
----
 
 ## Repository Structure
 
